@@ -1,7 +1,7 @@
 
 
 # Title
-Ageing of biomass burning areosols over West Africa
+Aircraft measurements Ageing of biomass burning areosols over West Africa
 
 
 # Author
