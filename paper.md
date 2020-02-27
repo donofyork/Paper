@@ -1,11 +1,13 @@
 
 
 # Title
-Aircraft measurements Ageing of biomass burning areosols over West Africa
+
+Aircraft measurements and simulations of biomass burning areosols over West Africa
 
 
 # Author
 Donal Cairns
+Stefan Jahr
 
 # Introduction
 We present aircraft measurments over West Arica
@@ -14,3 +16,6 @@ Jones et al conducted several studies but continental scale measurements have no
 
 #Motivation
 Find out more about thsi important phenomenon.
+
+#Simulatiomns
+We simulate the evolution of a particle
