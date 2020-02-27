@@ -23,3 +23,6 @@ We simulate the evolution of a particle
 #Methodology 
 
 We compared our measurements of particle aging with a mono-simulation. The model is details in Smith et al (2006).
+
+#Results
+The simulations indicate that coagulation is the dominant growth
