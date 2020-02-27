@@ -28,4 +28,4 @@ We compared our measurements of particle aging with a mono-simulation. The model
 The simulations indicate that coagulation is the dominant growth
 
 #Figures
-All images are liasted here
+All images are listed here
