@@ -19,3 +19,7 @@ Find out more about thsi important phenomenon.
 
 #Simulatiomns
 We simulate the evolution of a particle
+
+#Methodology 
+
+We compared our measurements of particle aging with a mono-simulation. The model is details in Smith et al (2006).
