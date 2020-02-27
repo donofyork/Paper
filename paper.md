@@ -17,15 +17,23 @@ Jones et al conducted several studies but continental scale measurements have no
 #Motivation
 Find out more about thsi important phenomenon.
 
-#Simulatiomns
+# Simulatiomns
 We simulate the evolution of a particle
 
-#Methodology 
+# Methodology 
 
 We compared our measurements of particle aging with a mono-simulation. The model is details in Smith et al (2006).
+
+# Conclusions
+We have made fantastic insight into the BBOA aging process.
 
 #Results
 The simulations indicate that coagulation is the dominant growth
 
-#Figures
+# Figures
 All images are listed here
+
+# Acknowledgment
+
+Thanks to funders.
+
