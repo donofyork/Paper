@@ -6,8 +6,8 @@ Aircraft measurements and simulations of biomass burning areosols over West Afri
 
 
 # Author
-Donal Cairns
-Stefan Jahr
+Donal Cairns, University of Manchester
+Stefan Jahr, University of Jena
 
 # Introduction
 We present aircraft measurments over West Arica
