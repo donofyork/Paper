@@ -6,6 +6,7 @@ Ageing of biomass burning areosols over West Africa
 
 # Author
 Donal Cairns
+Stefan Jahr
 
 # Introduction
 We present aircraft measurments over West Arica
